@@ -1,0 +1,6 @@
+C:\Users\Win10\source\repos\LeerTexto\LeerTexto\obj\Debug\LeerTexto.csprojAssemblyReference.cache
+C:\Users\Win10\source\repos\LeerTexto\LeerTexto\bin\Debug\LeerTexto.exe.config
+C:\Users\Win10\source\repos\LeerTexto\LeerTexto\bin\Debug\LeerTexto.exe
+C:\Users\Win10\source\repos\LeerTexto\LeerTexto\bin\Debug\LeerTexto.pdb
+C:\Users\Win10\source\repos\LeerTexto\LeerTexto\obj\Debug\LeerTexto.exe
+C:\Users\Win10\source\repos\LeerTexto\LeerTexto\obj\Debug\LeerTexto.pdb
