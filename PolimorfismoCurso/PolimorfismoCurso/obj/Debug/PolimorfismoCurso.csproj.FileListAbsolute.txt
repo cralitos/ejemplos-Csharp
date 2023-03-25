@@ -1,0 +1,6 @@
+C:\Users\Win10\source\repos\PolimorfismoCurso\PolimorfismoCurso\bin\Debug\PolimorfismoCurso.exe.config
+C:\Users\Win10\source\repos\PolimorfismoCurso\PolimorfismoCurso\bin\Debug\PolimorfismoCurso.exe
+C:\Users\Win10\source\repos\PolimorfismoCurso\PolimorfismoCurso\bin\Debug\PolimorfismoCurso.pdb
+C:\Users\Win10\source\repos\PolimorfismoCurso\PolimorfismoCurso\obj\Debug\PolimorfismoCurso.csprojAssemblyReference.cache
+C:\Users\Win10\source\repos\PolimorfismoCurso\PolimorfismoCurso\obj\Debug\PolimorfismoCurso.exe
+C:\Users\Win10\source\repos\PolimorfismoCurso\PolimorfismoCurso\obj\Debug\PolimorfismoCurso.pdb
